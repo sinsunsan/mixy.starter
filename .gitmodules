@@ -4,3 +4,6 @@
 [submodule "compass/sass/lib/mixy"]
 	path = compass/sass/lib/mixy
 	url = git@github.com:sinsunsan/mixy.git
+[submodule "js/lib/mixy"]
+	path = js/lib/mixy
+	url = git@github.com:sinsunsan/mixy.js.git
