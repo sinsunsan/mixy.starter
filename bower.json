@@ -1,0 +1,23 @@
+{
+  "name": "mixystarter",
+  "version": "0.5.0",
+  "homepage": "https://github.com/sinsunsan/mixy.starter",
+  "main": "./index.html",
+  "authors": [
+    "Sébastien Lucas"
+  ], 
+  "description": "Mixy.starter is a seed app",
+  "keywords": [
+    "seed app",
+    "utilities", 
+    "library", 
+    "starter"
+  ], 
+  "licence": "MIT",
+  "ignore": [
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
